@@ -5,15 +5,23 @@
 * [Introduction](pages/introduction.md)
 * [Concerning Gaslighting](pages/introduction/gaslighting.md)
 * [Theories examined](pages/introduction/theories_examined.md)
-* [Refutation of Arguments against the ME](pages/introduction/arguments_refuted.md)
-* [Warning of False Teachers](pages/introduction/warning_of_false_teachers.md)
+
 * [Concerning Censorship](censorship.md)
 
 [Biblechanges]()
 
-* [Categories of Biblechanges](pages/christian/categories_of_biblechanges.md)
-* [List of Biblechanges](pages/christian/list_of_biblechanges.md)
-* [Restored KJV Bible](pages/christian/restored_kjv.md)
+* [Categories of Biblechanges](pages/biblechanges/categories_of_biblechanges.md)
+* [Why the Bible is being changed](pages/biblechanges/why_the_bible_is_being_changed.md)
+* [False Biblical Changereports](pages/biblechanges/false_biblical_changreports.md)
+* [Warning of False Teachers](pages/biblechanges/warning_of_false_teachers.md)
+* [Refutation of Arguments against the ME](pages/biblechanges/arguments_refuted.md)
+* [Wisdom regardin the ME](pages/biblechanges/wisdom_regarding_the_me.md)
+---
+* # How the Bible used to read
+* [List of Biblechanges](pages/biblechanges/list_of_biblechanges.md)
+* [Restored KJV Bible (online)](pages/biblechanges/kjv_restored_online.md)
+* [Restored KJV Bible (App)](pages/biblechanges/kjv_restored_app.md)
+* [Residue of the original KJV](pages/biblechanges/kjv_residue.md)
 
 
 [Regarding Holiness]()
@@ -27,6 +35,7 @@
 [Secular Changes]()
 
 * [Categories of Secular Changes](pages/secular/categories_of_secular_changes.md)
+* [False Secular Changereports](pages/secular/false_secular_changereports.md)
 
 [Forum](pages/under_construction.md)
 [Downloads](pages/download.md)
@@ -36,4 +45,5 @@
 [Change Language]()
 
   * [English](/en/)
-  * [German](/de/)
+  * [German](pages/under_construction.md)
+  <!--* [German](/de/)-->
