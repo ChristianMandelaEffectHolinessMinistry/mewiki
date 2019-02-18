@@ -44,6 +44,6 @@
 
 [Change Language]()
 
-  * [English](/en/)
+  * [English](/mewiki/en/)
   * [German](pages/under_construction.md)
   <!--* [German](/de/)-->
